@@ -1,0 +1,26 @@
+{
+  "name": "javascript-vanilla",
+  "version": "1.0.0",
+  "description": "network social",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSarmientoDev/Social-Network-Javascript-Vanilla.git"
+  },
+  "keywords": [
+    "Javascript",
+    "vanilla"
+  ],
+  "author": "Daniel Sarmiento Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSarmientoDev/Social-Network-Javascript-Vanilla/issues"
+  },
+  "homepage": "https://github.com/DanielSarmientoDev/Social-Network-Javascript-Vanilla#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
