@@ -1,3 +1,8 @@
 .form{
     margin: 20px;
 }
+
+.error{
+    color: red;
+    transition: 1s;
+}
