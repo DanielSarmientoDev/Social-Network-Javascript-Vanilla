@@ -1,6 +1,8 @@
 const form = document.getElementById('form')
 const btn = document.getElementById('btn')
-form.addEventListener('submit', (e) => {
+
+
+form.addEventListener('button', (e) => {
     e.preventDefault()
     const email = document.getElementById('email').value
     const pass = document.getElementById('password').value
